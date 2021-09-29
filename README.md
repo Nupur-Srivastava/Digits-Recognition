@@ -32,7 +32,7 @@ jupyter lab
 This will open the Jupyter Notebook software and project file in your browser.
 ## Support Vector Machine(SVM)
 A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems. After giving an SVM model sets of labeled training data for each category, they're able to categorize new text.
-## Data
+## Data:
 The digits recognition takes the  hand written data from given data set in the model the numbers are from 0-8.
 
 **Target Variable**
